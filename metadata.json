@@ -1,0 +1,7 @@
+{
+  "name": "Vision Lens",
+  "description": "A beginner-friendly AI vision app that captures webcam images and explains them using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
